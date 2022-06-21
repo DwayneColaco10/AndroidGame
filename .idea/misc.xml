@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Dwayne/AndroidStudioProjects/AndroidGame/app/src/main/res/layout/activity_main.xml" value="0.2296875" />
+        <entry key="..\:/Users/Dwayne/AndroidStudioProjects/AndroidGame/app/src/main/res/layout/game_over.xml" value="0.21244635193133046" />
+        <entry key="..\:/Users/Dwayne/AndroidStudioProjects/AndroidGame/app/src/main/res/layout/startup.xml" value="0.2296875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
