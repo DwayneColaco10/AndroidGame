@@ -1,6 +1,6 @@
 # Android Space Shooter Game
 
-![Game Screenshot](![Screenshot 2023-08-02 161635](https://github.com/DwayneColaco10/AndroidGame/assets/83514970/f7f2cd3a-12f3-4e8c-80a9-e91cd1162090))
+![Screenshot 2023-08-02 161635](https://github.com/DwayneColaco10/AndroidGame/assets/83514970/f7f2cd3a-12f3-4e8c-80a9-e91cd1162090)
 
 This is an Android Space Shooter game where the player controls a spaceship and shoots down enemy spaceships while avoiding enemy missiles. The objective is to survive as long as possible and earn points by shooting down enemy ships.
 
