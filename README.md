@@ -36,7 +36,6 @@ This is an Android Space Shooter game where the player controls a spaceship and 
 
 - Background music and sound effects: [Freesound.org](https://freesound.org/)
 - Spaceship and enemy spaceship images: [OpenGameArt.org](https://opengameart.org/)
-- Explosion sprites: [Kenney.nl](https://kenney.nl/)
 
 ## License
 
